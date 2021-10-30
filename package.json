@@ -1,0 +1,17 @@
+{
+  "name": "@live-codes/blockly-utils",
+  "version": "0.1.0",
+  "description": "Blockly utilities for livecodes.io",
+  "author": "Hatem Hosny",
+  "license": "MIT",
+  "keywords": [],
+  "repository": {
+    "url": "https://github.com/live-codes/blockly-utils"
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "printWidth": 100
+  }
+}
